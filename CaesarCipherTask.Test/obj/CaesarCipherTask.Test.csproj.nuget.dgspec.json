@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask.Test/CaesarCipherTask.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask.Test/CaesarCipherTask.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask.Test/CaesarCipherTask.Test.csproj",
+        "projectName": "CaesarCipherTask.Test",
+        "projectPath": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask.Test/CaesarCipherTask.Test.csproj",
+        "packagesPath": "/Users/Kirill_1/.nuget/packages/",
+        "outputPath": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Kirill_1/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/CaesarCipherTask.csproj": {
+                "projectPath": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/CaesarCipherTask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/CaesarCipherTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/CaesarCipherTask.csproj",
+        "projectName": "CaesarCipherTask",
+        "projectPath": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/CaesarCipherTask.csproj",
+        "packagesPath": "/Users/Kirill_1/.nuget/packages/",
+        "outputPath": "/Users/Kirill_1/Desktop/CaesarCipherTask/CaesarCipherTask/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Kirill_1/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
